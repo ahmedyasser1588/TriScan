@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahmedyasser1588.github.io/TriScan/.xml
